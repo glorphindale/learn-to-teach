@@ -21,4 +21,4 @@ Teaching by Asking Instead of by Telling](http://www.garlikov.com/Soc_Meth.html)
 
 # Книги
 
-* Mindstorms, Seymour Papert
+* Книга [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)) от Seymour Papert, создателя языка Logo.
