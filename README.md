@@ -15,6 +15,7 @@
 
 * Плач математика ([A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf), Paul Lockhart)
 * [Teaching Effectively: Helping Students Absorb and Assimilate Material](http://www.garlikov.com/teaching/absorb.html), Rick Garlikov
+* [Teaching Online versus Teaching in the Classroom](http://www.garlikov.com/teaching/OnlineVersusOngroundTeaching.html), Rick Garlikov: подробное описание отличий онлайн и оффлайн обучения, разница между синхронным и асинхронным взаимодействием с преподавателем.
 * "Метод Сократа, как учить задавая вопросы" ([The Socratic Method: 
 Teaching by Asking Instead of by Telling](http://www.garlikov.com/Soc_Meth.html), Rick Garlikov). Как объяснить третьеклассникам двоичную (и любую другую) систему счисления?
 
